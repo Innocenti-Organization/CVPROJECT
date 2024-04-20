@@ -1,6 +1,6 @@
 # CV-PROJECT
 This is a cv website.
-[PROJECT URL](https://innocenti-organization.github.io/CVPROJECT/)
+[Rocío Innocenti's CV Website](https://innocenti-organization.github.io/CVPROJECT/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
