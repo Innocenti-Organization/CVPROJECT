@@ -2,7 +2,7 @@
 This is a cv website.
 [Rocío Innocenti's CV Website](https://innocenti-organization.github.io/CVPROJECT/)
 
-## BUILD WITH
+## BUILT WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -13,6 +13,7 @@ This project is using JIRA tool for project management and defect traking follow
 ## DEMO VIDEO
 This project includes a Demo Video of each functionallity developed.
 * [DEMO VIDEOS](/demo/)
+
 ## TEST STRATEGY
 This project adopts BDD Methodology for testing.
 
