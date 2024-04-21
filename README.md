@@ -32,7 +32,7 @@ This project adopts BDD Methodology for testing.
 * Regression test outcomes.
 
 ### STATIC TEST SONARQUBE
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=Innocenti-Organization_CVPROJECT)
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/api/project_badges/quality_gate?project=Innocenti-Organization_CVPROJECT)
 SonarQube Static Test Analisys Result.
 
 ### REGRESSION TEST PLAN
